@@ -187,10 +187,11 @@ address {
 
 .main-page {
     background: #2e2f42;
+    padding: 256px 0 188px;
 }
 
 .main-page-container{
-    padding: 136px 331px 68px;
+    padding: 0 331px;
 }
 .main-page-button {
     display: block;
@@ -263,7 +264,11 @@ address {
 .footer {
     background: #2e2f42;
     color: #f4f4fd;
-    padding: 100px 156px;
+}
+
+.footer-container{
+    padding-top: 156px;
+    padding-bottom: 156px;
 }
 
 .footer-logo{
