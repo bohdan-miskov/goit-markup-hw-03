@@ -253,6 +253,7 @@ address {
 
 .portfolio-list{
     flex-wrap: wrap;
+    row-gap: 48px;
 }
 
 .portfolio-section-title{
@@ -261,7 +262,6 @@ address {
 
 .portfolio-item{
     width: calc((100% - 24px * 2) / 3);
-    row-gap: 48px;
 }
 
 .portfolio-card-item-container{
