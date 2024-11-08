@@ -81,6 +81,8 @@ address {
 
 .card-item-container {
     padding: 32px 0;
+    border: 1px solid #E7E9FC;
+    border-top: none;
 }
 
 .section-subtitle {
