@@ -193,9 +193,6 @@ address {
     padding: 188px 0;
 }
 
-.main-page-container{
-    padding: 0 331px;
-}
 .main-page-button {
     display: block;
     min-width: 169px;
@@ -274,7 +271,6 @@ address {
 
 .footer {
     background: #2e2f42;
-    color: #f4f4fd;
     padding-top: 100px;
     padding-bottom: 100px;
 }
@@ -285,7 +281,8 @@ address {
 }
 
 .footer-text{
-    width:264px;
+    max-width:264px;
+    color: #f4f4fd;
 }
 
 /* #endregion */
